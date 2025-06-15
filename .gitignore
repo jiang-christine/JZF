@@ -1,0 +1,13 @@
+
+**/*.gz
+**/*mtx*
+**/*.h5ad
+**/*.csv
+**/*.tsv
+**/*.zip
+**/*.rar
+**/*.qs
+**/*.rds
+**/.ipynb_checkpoints/*
+
+
